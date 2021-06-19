@@ -30,11 +30,11 @@ large_image_data.csv contains metadata about the large image files, including co
 ### 3.1 Steps
 > Load the pre-training model. -> Partitioning data set. -> Train & Validate -> Quality Assessment -> Test
 ### 3.2 Tools Applied
-YOLO Algorithm! ==You Only Look Once!==
-[The introduction of YOLO v3](https://github.com/ultralytics/yolov3) :rocket:
-[Train custom data with YOLO v3](https://github.com/ultralytics/yolov3/wiki/Train-Custom-Data)​ :rocket:
+YOLO Algorithm! You Only Look Once!  
+[The introduction of YOLO v3](https://github.com/ultralytics/yolov3) :rocket:  
+[Train custom data with YOLO v3](https://github.com/ultralytics/yolov3/wiki/Train-Custom-Data)​ :rocket:  
 
-[Google Colab](https://colab.research.google.com/):rocket:**RECOMMEND!** ==FREE GPU for 12 HOURS per MONTH== ​
+[Google Colab](https://colab.research.google.com/):rocket:**RECOMMEND!** FREE GPU for 12 HOURS per MONTH​
 
 ## 4 Experimental Procedure
 
