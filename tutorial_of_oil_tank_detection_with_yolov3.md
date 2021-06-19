@@ -34,7 +34,7 @@ YOLO Algorithm! You Only Look Once!
 [The introduction of YOLO v3](https://github.com/ultralytics/yolov3) :rocket:  
 [Train custom data with YOLO v3](https://github.com/ultralytics/yolov3/wiki/Train-Custom-Data)​ :rocket:  
 
-[Google Colab](https://colab.research.google.com/):rocket:**RECOMMEND!** FREE GPU for 12 HOURS per MONTH​
+[![colab](pictures/colab.svg)](https://colab.research.google.com/):rocket:**RECOMMEND!** FREE GPU for 12 HOURS per MONTH​
 
 ## 4 Experimental Procedure
 
