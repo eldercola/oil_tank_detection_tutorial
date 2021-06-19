@@ -91,21 +91,21 @@ Oops, seems the ==download link is changed==. Never mind, try to use this method
 
 1. click download button.
 
-![image-20210619133115338](D:\deep_learning\Applicate_Artifacial_Intelligence\Lab\pic\download_1.png)
+![image-20210619133115338](pictures/download_1.png)
 
 2. suspend the downloading
 
-![image-20210619133219666](D:\deep_learning\Applicate_Artifacial_Intelligence\Lab\pic\download_2.png)
+![image-20210619133219666](pictures/download_2.png)
 
 3. click "全部显示"(Um, I haven't use chrome in English version so I don't know how to say it in English)
 
-![image-20210619133430293](D:\deep_learning\Applicate_Artifacial_Intelligence\Lab\pic\download_3.png)
+![image-20210619133430293](pictures/download_3.png)
 
 4. copy the download link
 
 Look at the line that "https://storage...", this is the download link, copy it.
 
-![image-20210619133546903](D:\deep_learning\Applicate_Artifacial_Intelligence\Lab\pic\download_4.png)
+![image-20210619133546903](pictures/download_4.png)
 
 5. replace the 1st parameter in ```download_url_to_file()``` with the copied link.
 
